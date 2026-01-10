@@ -1,0 +1,15 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Practice1-4_ThreadIDsAndNaming/Practice1-4_ThreadIDsAndNaming.vcxproj" Id="d4c65c10-2373-4d12-a04b-144fee8a2f1c" />
+  <Project Path="Practice1-5_ThreadArgumentsWithLambdaCapture/Practice1-5_ThreadArgumentsWithLambdaCapture.vcxproj" Id="67b7c18f-0425-4d7e-922d-901a9b9d37a5" />
+  <Project Path="Practice1-6_ThreadOwnershipAndExceptions/Practice1-6_ThreadOwnershipAndExceptions.vcxproj" Id="55b1f918-ad16-435a-bc7a-692712349d9a" />
+  <Project Path="Practice1-7_ThreadLifecycleLogging/Practice1-7_ThreadLifecycleLogging.vcxproj" Id="e6d98328-5c2f-4763-8e3e-5098f0b5be08" />
+  <Project Path="Practice2-4_EnhancedCounter/Practice2-4_EnhancedCounter.vcxproj" Id="964c21fa-913c-4700-b621-f5b3b4f3cbe4" />
+  <Project Path="Practice2-5_SharedContainer/Practice2-5_SharedContainer.vcxproj" Id="afdd92c9-23f3-46bc-8b5a-8e94502a50c4" />
+  <Project Path="Practice2-6_Producer-ConsumerVariations/Practice2-6_Producer-ConsumerVariations.vcxproj" Id="0a07ad37-4c78-4e7c-aa89-6cf4101a7fbd" />
+  <Project Path="Practice2-7_DeadlockExploration/Practice2-7_DeadlockExploration.vcxproj" Id="973ede2f-27aa-4469-bd94-5fb13d67e8cb" />
+  <Project Path="Practice2-8_Read-WriteMutexSimulation/Practice2-8_Read-WriteMutexSimulation.vcxproj" Id="7dc45c42-13c0-45f6-b599-d950f8112e89" />
+</Solution>
