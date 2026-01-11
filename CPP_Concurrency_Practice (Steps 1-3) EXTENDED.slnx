@@ -12,4 +12,9 @@
   <Project Path="Practice2-6_Producer-ConsumerVariations/Practice2-6_Producer-ConsumerVariations.vcxproj" Id="0a07ad37-4c78-4e7c-aa89-6cf4101a7fbd" />
   <Project Path="Practice2-7_DeadlockExploration/Practice2-7_DeadlockExploration.vcxproj" Id="973ede2f-27aa-4469-bd94-5fb13d67e8cb" />
   <Project Path="Practice2-8_Read-WriteMutexSimulation/Practice2-8_Read-WriteMutexSimulation.vcxproj" Id="7dc45c42-13c0-45f6-b599-d950f8112e89" />
+  <Project Path="Practice3-4_ChainedFutures/Practice3-4_ChainedFutures.vcxproj" Id="f93bef7c-1d77-46d3-9c39-1fb42cc2a526" />
+  <Project Path="Practice3-5_Promise-FutureCoordination/Practice3-5_Promise-FutureCoordination.vcxproj" Id="214ff9ad-d498-4d80-9c54-446c466deb5e" />
+  <Project Path="Practice3-6_TimeoutHandling/Practice3-6_TimeoutHandling.vcxproj" Id="5a7f4966-4126-40c3-9575-3e18a10ab2ce" />
+  <Project Path="Practice3-7_ExceptionPropagation/Practice3-7_ExceptionPropagation.vcxproj" Id="13ace27c-048d-444b-8840-d91b12c1913e" />
+  <Project Path="Practice3-8_ThreadCommunicationPuzzle/Practice3-8_ThreadCommunicationPuzzle.vcxproj" Id="e48bfdd3-7400-4f0f-8dd4-b6786eaa881f" />
 </Solution>
